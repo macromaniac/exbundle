@@ -1,7 +1,5 @@
 # exbundle
 
-Example of getting sourcemaps working with visual studio for typescript.
+Typescript sourcemaps bundles are tricky to get working with visual studio's debugging tool. This example should work out of the box after installing the npm packages.
 
-Install the npm packages and hit F5 to get bundled.
-
-NOTE: used an older version of webpack to prevent webpack from adding WEBPACK FOOTER and ruining debugging
+NOTE: I used a slightly older version of webpack to prevent webpack from adding WEBPACK FOOTER and ruining debugging.
